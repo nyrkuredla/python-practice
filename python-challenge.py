@@ -21,3 +21,10 @@ print (txt.translate(trans))
 url = "map"
 newLink = url.maketrans(x, y)
 print (url.translate(newLink))
+
+
+# level 3
+# "recognize the characters. maybe they are in the book, but maybe they are in the page source" + photo of book with blurry characters
+
+# in inspector mode in Chrome, we see a snippet hidden in the sourcecode urging us to "find rare characters in the mess below".
+ 

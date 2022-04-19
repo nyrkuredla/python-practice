@@ -72,6 +72,12 @@ text ' in a phrase' # chucks an error
 text + ' in a phrase' # add an operator and it works
 
 ## indexes
+word = "Python"
+word [0] # "P"
+word [-1] # "n" - starts at the end, since -0 is the same as 0
+word [-6] # "P" - back to the beginning
 
+# slicing
+word[0:3] # "Pyt"
 
 
